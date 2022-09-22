@@ -13,7 +13,7 @@ class TicTacToe:
             self.board.append(row)
     
     def get_random_first_player(self):
-        return random.randint(0, 1)
+        return random.randint(0,1)
     
     def fix_spot(self, row, col, player):
         self.board[row][col] = player
