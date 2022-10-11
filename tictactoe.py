@@ -1,3 +1,8 @@
+'''
+Tic-Tac-Toe
+Author: Chelsea Chngh Lee Ping
+'''
+
 import random
 
 class TicTacToe:
